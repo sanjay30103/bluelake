@@ -67,7 +67,7 @@ body {
     height: 600px;
     /* background-color: black; */
     margin-top: -100px;
-    background: linear-gradient(rgba(0, 0, 0, 0.327)), url(/banner.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.327)), url(banner.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
